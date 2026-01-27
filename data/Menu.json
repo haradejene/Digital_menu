@@ -1,0 +1,122 @@
+{
+  "title": "BEST CHICKEN PLACE IN TOWN!",
+  "categories": [
+    { "id": 1, "name": "BREAKFAST", "description": "Morning delights to start your day" },
+    { "id": 2, "name": "LUNCH", "description": "Hearty meals for midday" },
+    { "id": 3, "name": "DINNER", "description": "Delicious dinners to end your day" },
+    { "id": 4, "name": "DRINKS", "description": "Refreshing beverages" },
+    { "id": 5, "name": "DESSERTS", "description": "Sweet treats to satisfy cravings" }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "name": "CRISPY GOLD CHICKEN",
+      "subtitle": "",
+      "ingredients": "Chicken (home-in), buttermilk, flour, paprika, garlic powder, black pepper, salt, vegetable oil",
+      "calories": "~450 kcal (2 pieces)",
+      "spicy": false,
+      "categoryId": 3,
+      "image": "/chicken-1.png",
+      "price": "$12.99"
+    },
+    {
+      "id": 2,
+      "name": "CRUNCHY CHICKEN BURGER",
+      "subtitle": "",
+      "ingredients": "Crispy chicken fillet, lettuce, pickles, mayo, soft burger bun",
+      "calories": "~520 kcal",
+      "spicy": false,
+      "categoryId": 2,
+      "image": "/chicken-2.png",
+      "price": "$10.99"
+    },
+    {
+      "id": 3,
+      "name": "FIRECRUNCH SPICY CHICKEN",
+      "subtitle": "",
+      "ingredients": "Chicken thighs, chili powder, cayenne pepper, flour, eggs, hot sauce, vegetable oil",
+      "calories": "~480 kcal (2 pieces)",
+      "spicy": true,
+      "categoryId": 2,
+      "image": "/chicken-3.png",
+      "price": "$13.99"
+    },
+    {
+      "id": 4,
+      "name": "CRISPY GO CHICKEN",
+      "subtitle": "",
+      "ingredients": "Chicken from buttermilk, flour, garlic powder, salt, vegetable oil",
+      "calories": "~400 kcal (4 pieces)",
+      "spicy": false,
+      "categoryId": 3,
+      "image": "/chicken-4.png",
+      "price": "$11.99"
+    },
+    {
+      "id": 5,
+      "name": "CHICKEN & WAFFLES",
+      "subtitle": "",
+      "ingredients": "Crispy fried chicken, fluffy waffles, maple syrup, butter",
+      "calories": "~650 kcal",
+      "spicy": false,
+      "categoryId": 1,
+      "image": "/breakfast-1.png",
+      "price": "$14.99"
+    },
+    {
+      "id": 6,
+      "name": "CHICKEN SANDWICH",
+      "subtitle": "",
+      "ingredients": "Grilled chicken, fresh vegetables, special sauce, artisan bread",
+      "calories": "~580 kcal",
+      "spicy": true,
+      "categoryId": 2,
+      "image": "/lunch-1.png",
+      "price": "$9.99"
+    },
+    {
+      "id": 7,
+      "name": "COCA-COLA",
+      "subtitle": "",
+      "ingredients": "Classic Coca-Cola",
+      "calories": "~140 kcal",
+      "spicy": false,
+      "categoryId": 4,
+      "image": "/drink-1.png",
+      "price": "$2.99"
+    },
+    {
+      "id": 8,
+      "name": "CHOCOLATE LAVA CAKE",
+      "subtitle": "",
+      "ingredients": "Chocolate cake with molten center, vanilla ice cream",
+      "calories": "~420 kcal",
+      "spicy": false,
+      "categoryId": 5,
+      "image": "/dessert-1.png",
+      "price": "$6.99"
+    },
+    {
+      "id": 9,
+      "name": "LEMONADE",
+      "subtitle": "",
+      "ingredients": "Fresh lemon juice, sugar, water, mint",
+      "calories": "~120 kcal",
+      "spicy": false,
+      "categoryId": 4,
+      "image": "/drink-2.png",
+      "price": "$3.99"
+    },
+    {
+      "id": 10,
+      "name": "CHICKEN SALAD",
+      "subtitle": "",
+      "ingredients": "Grilled chicken, mixed greens, cherry tomatoes, vinaigrette",
+      "calories": "~350 kcal",
+      "spicy": false,
+      "categoryId": 2,
+      "image": "/lunch-2.png",
+      "price": "$11.99"
+    }
+  ]
+}
