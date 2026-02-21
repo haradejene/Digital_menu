@@ -17,7 +17,7 @@
       "spicy": false,
       "categoryId": 3,
       "image": "/chicken-1.png",
-      "price": "$12.99"
+      "price": "1200 Birr"
     },
     {
       "id": 2,
@@ -28,7 +28,7 @@
       "spicy": false,
       "categoryId": 2,
       "image": "/chicken-2.png",
-      "price": "$10.99"
+      "price": "1000 Birr"
     },
     {
       "id": 3,
@@ -39,7 +39,7 @@
       "spicy": true,
       "categoryId": 2,
       "image": "/chicken-3.png",
-      "price": "$13.99"
+      "price": "1300 Birr"
     },
     {
       "id": 4,
@@ -50,7 +50,7 @@
       "spicy": false,
       "categoryId": 3,
       "image": "/chicken-4.png",
-      "price": "$11.99"
+      "price": "1100 Birr"
     },
     {
       "id": 5,
@@ -61,7 +61,7 @@
       "spicy": false,
       "categoryId": 1,
       "image": "/breakfast-1.png",
-      "price": "$14.99"
+      "price": "1400 Birr"
     },
     {
       "id": 6,
@@ -72,7 +72,7 @@
       "spicy": true,
       "categoryId": 2,
       "image": "/lunch-1.png",
-      "price": "$9.99"
+      "price": "900 Birr"
     },
     {
       "id": 7,
@@ -83,7 +83,7 @@
       "spicy": false,
       "categoryId": 4,
       "image": "/drink-1.png",
-      "price": "$2.99"
+      "price": "$350 Birr"
     },
     {
       "id": 8,
@@ -94,7 +94,7 @@
       "spicy": false,
       "categoryId": 5,
       "image": "/dessert-1.png",
-      "price": "$6.99"
+      "price": "$600 Birr"
     },
     {
       "id": 9,
@@ -105,7 +105,7 @@
       "spicy": false,
       "categoryId": 4,
       "image": "/drink-2.png",
-      "price": "$3.99"
+      "price": "400 Birr"
     },
     {
       "id": 10,
@@ -116,7 +116,7 @@
       "spicy": false,
       "categoryId": 2,
       "image": "/lunch-2.png",
-      "price": "$11.99"
+      "price": "500 Birr"
     }
   ]
 }

@@ -136,7 +136,7 @@ export default function HeroSection() {
                   </div>
                 ))}
               </div>
-              <div className="text-xs font-inter text-white/40 mt-2">Hover to pause • Auto-scrolling</div>
+
             </div>
           </div>
 
